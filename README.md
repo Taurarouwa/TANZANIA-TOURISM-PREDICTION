@@ -10,13 +10,5 @@ areas. There are 16 national parks in Tanzania, 28 game reserves, 44 game-contro
 Objective
 
 The dataset describes 6476 rows of up-to-date information on tourist expenditure collected by the National Bureau of Statistics (NBS) in 
-
 Tanzania. The dataset was collected to gain a better understanding of the status of the tourism sector and provide an instrument that 
-
-will enable sector growth.  Your goal is to accurately predict tourist expenditure when visiting Tanzania.
-
-The objective of this Challenge is to develop a machine learning model to predict what a tourist will spend when visiting Tanzania. The 
-
-model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate 
-
-their expenditure before visiting Tanzania.
+will enable sector growth.  Your goal is to accurately predict tourist expenditure when visiting Tanzania. The objective of this Challenge is to develop a machine learning model to predict what a tourist will spend when visiting Tanzania. The model can be used by different tour operators and the Tanzania Tourism Board to automatically help tourists across the world estimate their expenditure before visiting Tanzania.
